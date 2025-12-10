@@ -1,6 +1,6 @@
 # Hierarchical-Low-Rank-Compression-for-100B-LLMs-on-Consumer-GPUs
 Hierarchical Low-Rank Compression for 100B+ LLMs on Consumer GPUs
-# SemanticX.py Enhancement Report
+# HLRC.py Enhancement Report
 
 ## Overview
 This report documents the comprehensive enhancements made to address all major limitations identified in the original technical review of SemanticX.py. The enhanced implementation now provides production-ready functionality with end-to-end training, quantization, and advanced compression techniques.
